@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Customers>
+    <Customer>
+        <id>1</id>
+        <name>lol</name>
+        <login>test@netcracker.com</login>
+        <pass>202cb962ac59075b964b07152d234b70</pass>
+    </Customer>
+</Customers>

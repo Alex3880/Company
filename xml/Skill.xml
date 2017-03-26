@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Skills>
+    <Skill>
+        <id>1</id>
+        <skillName>junior</skillName>
+    </Skill>
+    <Skill>
+        <id>2</id>
+        <skillName>middle</skillName>
+    </Skill>
+    <Skill>
+        <id>3</id>
+        <skillName>senior</skillName>
+    </Skill>
+</Skills>
+    

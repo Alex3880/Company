@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Sprints>
+    <Sprint>
+        <id>1</id>
+        <name>Creation</name>
+        <idProject>1</idProject>
+        <prevSprint>0</prevSprint>
+    </Sprint>
+</Sprints>
+    

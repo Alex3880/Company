@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #f3f2f3;
+    color: #000000;
+    font-family: Trebuchet MS, Arial, Times New Roman;
+    font-size: 12px;
+}
+
+#container {
+    background: #FFFFFF;
+    width: 100%;
+    height: 1150px;
+}
+
+#header {
+    background: #f3f2f3;
+    height: 100px;
+    width: 100%;
+}
+
+#menu {
+    background: #323B55;
+    float: left;
+    width: 20%;
+    min-height: 1000px;
+}
+
+#content {
+    background: #d2d0d2;
+    float: right;
+    width: 78%;
+    padding-left: 2%;
+    padding-top: 10px;
+    min-height: 1000px;
+}
+
+#clear {
+    clear: both;
+}
+
+#footer {
+    background: #838283;
+    height: 50px;
+    width: 100%;
+}
+
+#err {
+    font-size: 12px;
+}
+
+input {
+    padding: 3px;
+    border-radius: 4px;
+    box-shadow: none;
+    border: 0;
+
+}
+
+input[type="button"], button {
+    padding: 5px 3px;
+    font-size: 15px;
+    border-radius: 5px;
+    box-shadow: none;
+    background-color: wheat;
+    border: 0;
+}
+
+td, th {
+    padding: 5px;
+}
+
+#showListCus th, td, #showListProj th, td, #showListEmp th, td, #showListTask th, td, #showListSprint th, td, #showListByCustomer th, td {
+    padding: 5px;
+    border: 1px solid black;
+}
+
+#showListCus table, #showListProj table, #showListEmp table, #showListTask table, #showListSprint table, #showListByCustomer table {
+    margin: 5px;
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+
+a {
+    color: black;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+#exit {
+    margin-left: 10px;
+}
+
+h1, h2, h3 {
+    padding: 10px;
+    color: grey;
+}
+
+.selectableTable tr:hover:nth-child(n+2) {
+    background-color: wheat;
+}
+

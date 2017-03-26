@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<EmpTasks>
+    <EmpTask>
+        <idEmp>1</idEmp>
+        <idTask>1</idTask>
+    </EmpTask>
+    <EmpTask>
+        <idEmp>2</idEmp>
+        <idTask>1</idTask>
+    </EmpTask>
+    <EmpTask>
+        <idEmp>3</idEmp>
+        <idTask>2</idTask>
+    </EmpTask>
+</EmpTasks>

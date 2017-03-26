@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Estimates>
+    <Estimate>
+        <id>1</id>
+        <hours>4</hours>
+    </Estimate>
+    <Estimate>
+        <id>2</id>
+        <hours>8</hours>
+    </Estimate>
+    <Estimate>
+        <id>3</id>
+        <hours>10</hours>
+    </Estimate>
+</Estimates>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Projects>
+    <Project>
+        <id>1</id>
+        <name>Bank</name>
+        <idCustomer>2</idCustomer>
+        <dateBegin>2017-02-13</dateBegin>
+        <dateEnd>2017-06-23</dateEnd>
+        <idManager>3</idManager>
+    </Project>
+</Projects>

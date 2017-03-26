@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Tasks>
+    <Task>
+        <id>1</id>
+        <name>Validation form</name>
+        <idSprint>1</idSprint>
+        <idEstimate>1</idEstimate>
+        <idCondition>1</idCondition>
+        <dependencyTask>0</dependencyTask>
+        <isSubtask>0</isSubtask>
+        <idSkill>2</idSkill>
+    </Task>
+    <Task>
+        <id>2</id>
+        <name>Registaration</name>
+        <idSprint>1</idSprint>
+        <idEstimate>2</idEstimate>
+        <idCondition>1</idCondition>
+        <dependencyTask>0</dependencyTask>
+        <isSubtask>0</isSubtask>
+        <idSkill>1</idSkill>
+    </Task>
+</Tasks>
+    
